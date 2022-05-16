@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/Azamat-Sult/RT-Inform-test-task.svg?branch=master)](https://app.travis-ci.com/Azamat-Sult/RT-Inform-test-task)
+[![codecov](https://codecov.io/gh/Azamat-Sult/RT-Inform-test-task/branch/main/graph/badge.svg?token=iocEn8Jl2y)](https://codecov.io/gh/Azamat-Sult/RT-Inform-test-task)
 # RT-Inform-test-task
 
 В данном проекте реализовано решение тестового задания от ООО "РТ-ИНФОРМ":
